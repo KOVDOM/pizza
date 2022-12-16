@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Contoso.exe
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\appsettings.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Contoso.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Contoso.deps.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Contoso.runtimeconfig.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Contoso.pdb
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

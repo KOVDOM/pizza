@@ -1,0 +1,106 @@
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Contoso.exe
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Contoso.deps.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Contoso.runtimeconfig.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Contoso.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Contoso.pdb
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.AssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\scopedcss\bundle\Contoso.styles.css
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.csproj.CopyComplete
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\refint\Contoso.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.pdb
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\Contoso.genruntimeconfig.cache
+C:\Users\Admin\Documents\2-14-backend\Contoso\obj\Debug\net6.0\ref\Contoso.dll
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\publish\web.config
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\publish\Contoso.deps.json
+C:\Users\Admin\Documents\2-14-backend\Contoso\bin\Debug\net6.0\publish\Contoso.runtimeconfig.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\publish\web.config
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\appsettings.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\publish\Contoso.deps.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\publish\Contoso.runtimeconfig.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Contoso.exe
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Contoso.deps.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Contoso.runtimeconfig.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Contoso.pdb
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.csproj.AssemblyReference.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.AssemblyInfoInputs.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.AssemblyInfo.cs
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets\msbuild.Contoso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets\msbuild.build.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\scopedcss\bundle\Contoso.styles.css
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.csproj.CopyComplete
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\refint\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.pdb
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\Contoso.genruntimeconfig.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\ContosoPizza\pizza-main\obj\Debug\net6.0\ref\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\publish\web.config
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\appsettings.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\publish\Contoso.deps.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\publish\Contoso.runtimeconfig.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Contoso.exe
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Contoso.deps.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Contoso.runtimeconfig.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Contoso.pdb
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.csproj.AssemblyReference.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.AssemblyInfoInputs.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.AssemblyInfo.cs
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets\msbuild.Contoso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets\msbuild.build.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Contoso.props
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\scopedcss\bundle\Contoso.styles.css
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.csproj.CopyComplete
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\refint\Contoso.dll
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.pdb
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\Contoso.genruntimeconfig.cache
+C:\Users\kovdo\Documents\2 14.D\Frotnend\contoso\contosobackend-20221209T063245Z-001\contosobackend\obj\Debug\net6.0\ref\Contoso.dll
